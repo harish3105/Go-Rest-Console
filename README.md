@@ -29,3 +29,4 @@ Note
 Change the request URL according to the selected request method.
 Ensure you should give the request body object with the keys id, name, email, gender, and status as shown in the image.
 While giving the value to the HTML textarea element with the id requestBody, make sure you keep the double quotes (" ") to the object keys as shown in the image.
+ 
